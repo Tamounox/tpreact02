@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Développement",
+        "description": "King du développement web, vous trouverez  mes magnifiques créations sur mon github",
+        "footer": "https://github.com/Tamounox",
+        "id" : "#projets"
+    },
+    {
+        "name": "Golf",
+        "description": "Joueur Pro en devenir actuellement en préparation du tee de bronze",
+        "footer": "https://www.facebook.com/AntoineGstn/",
+        "id" : "#golf"
+
+    },
+    {
+        "name": "Counter Strike",
+        "description": "Anciennement Joueur pro de la scène non compétitive je laisse à présent la place aux noobies",
+        "footer": "https://steamcommunity.com/profiles/76561198004032247/",
+        "id" : "#cs"
+    },
+    {
+        "name": "Paul le nullos",
+        "description": "boloss boloss boloss boloss boloss boloss",
+        "footer": "https://steamcommunity.com/profiles/76561198004032247/"
+    }
+]
